@@ -1,0 +1,50 @@
+                    
+
+
+                                      -----------------------------Social Media Application-------------------------------------
+
+user-------> id, name, birthdate
+post-------> id, description
+
+-----Build a rest api for a social media application
+
+. Retrieve all Users - GET /users
+
+. Create a User - POST /users
+
+. Retrieve one User - GET /users/{id} -> /users/1
+
+. Delete a User - DELETE /users/{id} -> /users/1
+
+. Retrieve all posts for a User - GET /users/{id}/posts
+
+. Create a posts for a User - POST /users/{id}/posts
+
+. Retrieve details of a post - GET /users/{id}/posts/{post_id}
+
+
+1- Build 3 Simple REST API.
+
+2- Understand the Magic of Spring Boot
+
+3- Understand Fundamentals of building REST APIS with Spring Boot
+
+4-Building a REST APIS for a Social Media Application
+
+5-Choosing the right URI for resources(/users, /usres/{id}, /users/{id}/posts)
+
+6- Choosing the right request method for actions( GET, POST, PUT, DELETE)
+
+7-Designing request and response structure
+
+8-implementing securing , validation and exceptional handling
+
+9- Building advanced REST APIS features- internationalization, HATEOAS, Versioning, Documentation, Content Negotiation
+
+10- Connect your REST API to a database
+
+11- Fundamental of JPA and Hibernate
+
+12- use H2 and MYSQL as a Database 
+
+
